@@ -1,9 +1,13 @@
-NL------
-Om dit programma te runnen moet je het via cmds openen
-Stap 1 - type cd "De plek waar het main.py staat volledige PATH zoals: C:\Users\Karim Alkichouhi\Documents\School\Neural-Network\IMG-REC\Flappy_Game_AI_NN\Flappy-Bird-AI-Game_NN\Code" tik enter
-Stap 2 - type dan python main.py dan gaat het game starten
-EN------
-NL------
-To run this program you have to open it via cmds
-Step 1 - type cd "The place where the main.py is located full PATH like: C:\Users\Karim Alkichouhi\Documents\School\Neural-Network\IMG-REC\Flappy_Game_AI_NN\Flappy-Bird-AI-Game_NN\Code" tap enter
-Step 2 - then type python main.py then the game will start
+## introduction 
+In this project i am making a flappy bird game where a neural network is training it selfs, each generation gets better.<br>
+Each generation starts with 60 flappy birds at a time(this is customizable but limited for low-end pc/laptop)💻 
+## 🐦 how to run 🐦
+To run this code we use the Command terminal-?<br>
+- open command line<br>
+- path to directory of the game.cs so somthing like -> cd c:Karim/game<br>
+- now you run the game by typing the fullname of the game 'game.py'<br>
+The game should start flapping its way around 😉<br>
+
+## Credit
+
+Made By Karim Alkichouhi
